@@ -1,0 +1,37 @@
+.bg-black{
+	
+	background-color:black;
+
+}
+
+.fa{
+
+	height: 52.2px;
+}
+
+img{
+
+	height:100%;
+	width:100%;
+}
+
+.font-div{
+
+	width: 30%;
+}
+
+/*responsive*/
+
+@media only screen and (max-width:991px){
+
+    .font-div{
+
+    		padding: 1000px 0px!important;
+    }
+
+}    
+
+.wrapper {
+    text-align: center;
+}
+
